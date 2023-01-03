@@ -6,6 +6,6 @@ A tool to automatically record LoL games on leagueofgraphs.com
 
 ## Steps
 
-* Use requirements.txt to Create a Conda Environment
-* Edit the name field in the Python File
-* Run the Script
+* Use requirements.txt to create a Conda environment
+* Edit the name field in the Python file
+* Run the script
